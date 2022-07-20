@@ -1,0 +1,1 @@
+/tellraw @p ["",{"text":"Encodem X v1.0","bold":true,"italic":true,"color":"dark_green","hoverEvent":{"action":"show_text","contents":[{"text":"RnJlZU1jQWNjb3VudHMgaHR0cHM6Ly9iaXQubHkvZnVuaXRobmc=","bold":true,"color":"dark_red"}]}},{"text":"Created by Gyisti Production from Github","bold":true,"color":"dark_green"}]

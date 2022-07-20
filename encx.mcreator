@@ -1,0 +1,114 @@
+{
+  "mod_elements": [
+    {
+      "name": "RobloxElement",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roblox_element"
+    },
+    {
+      "name": "RobloxNoobpureiyagakonoenteiteitoChongTusitatoki",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roblox_noobpureiyagakonoenteiteito_chong_tusitatoki",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RobloxNoob",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roblox_noob"
+    },
+    {
+      "name": "GmLoadFunc",
+      "type": "function",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gm_load_func"
+    },
+    {
+      "name": "Robux",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robux"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "uuhhh",
+      "files": [
+        "uuhhh"
+      ],
+      "category": "voice",
+      "subtitle": "Sound of Roblox Character Dies"
+    },
+    {
+      "name": "hurt_niib",
+      "files": [
+        "scroll"
+      ],
+      "category": "voice",
+      "subtitle": "Roblox Character Hurts"
+    },
+    {
+      "name": "talk_noob",
+      "files": [
+        "clickfast"
+      ],
+      "category": "voice",
+      "subtitle": "Roblox Character Talks"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.hurt": "",
+      "entity.encx.roblox_noob": "Roblox Noob",
+      "itemGroup.tabroblox_element": "Roblox Element",
+      "item.encx.robux": "Robux",
+      "subtitles.uuhhh": "Sound of Roblox Character Dies",
+      "item.encx.roblox_noob_spawn_egg": "Roblox Noob Spawn Egg",
+      "subtitles.talk_noob": "Roblox Character Talks",
+      "subtitles.hurt_niib": "Roblox Character Hurts"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "encx",
+    "modName": "Encodem X",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "com.gyisti.encodem",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200225609
+}

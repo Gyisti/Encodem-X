@@ -1,0 +1,32 @@
+{
+  "uuhhh": {
+    "category": "voice",
+    "subtitle": "subtitles.uuhhh",
+    "sounds": [
+      {
+        "name": "encx:uuhhh",
+        "stream": false
+      }
+    ]
+  },
+  "hurt_niib": {
+    "category": "voice",
+    "subtitle": "subtitles.hurt_niib",
+    "sounds": [
+      {
+        "name": "encx:scroll",
+        "stream": false
+      }
+    ]
+  },
+  "talk_noob": {
+    "category": "voice",
+    "subtitle": "subtitles.talk_noob",
+    "sounds": [
+      {
+        "name": "encx:clickfast",
+        "stream": false
+      }
+    ]
+  }
+}
