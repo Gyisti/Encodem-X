@@ -47,6 +47,62 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "robux"
+    },
+    {
+      "name": "RobuxOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robux_ore"
+    },
+    {
+      "name": "Robuxorert",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robuxorert"
+    },
+    {
+      "name": "YouGotRobux",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "you_got_robux"
+    },
+    {
+      "name": "Test",
+      "type": "code",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "test"
+    },
+    {
+      "name": "BackroomsElement",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_element"
+    },
+    {
+      "name": "Partygoers",
+      "type": "livingentity",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "partygoers"
+    },
+    {
+      "name": "Partypooper",
+      "type": "livingentity",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "partypooper"
     }
   ],
   "variable_elements": [],
@@ -78,14 +134,40 @@
   ],
   "language_map": {
     "en_us": {
-      "subtitles.hurt": "",
       "entity.encx.roblox_noob": "Roblox Noob",
+      "block.encx.robux_ore": "Robux Ore",
+      "advancements.you_got_robux.descr": "Robux",
+      "subtitles.uuhhh": "Sound of Roblox Character Dies",
+      "item.encx.partygoers_spawn_egg": "Partygoers Spawn Egg",
+      "entity.encx.partygoers": "Partygoers",
+      "subtitles.talk_noob": "Roblox Character Talks",
+      "subtitles.hurt_niib": "Roblox Character Hurts",
+      "itemGroup.tabbackrooms_element": "Backrooms Element",
+      "subtitles.hurt": "",
+      "entity.encx.partypooper": "Partypoopers",
+      "advancements.you_got_robux.title": "You Got Robux",
       "itemGroup.tabroblox_element": "Roblox Element",
       "item.encx.robux": "Robux",
-      "subtitles.uuhhh": "Sound of Roblox Character Dies",
-      "item.encx.roblox_noob_spawn_egg": "Roblox Noob Spawn Egg",
-      "subtitles.talk_noob": "Roblox Character Talks",
-      "subtitles.hurt_niib": "Roblox Character Hurts"
+      "item.encx.partypooper_spawn_egg": "Partypoopers Spawn Egg",
+      "item.encx.roblox_noob_spawn_egg": "Roblox Noob Spawn Egg"
+    },
+    "ja_jp": {
+      "entity.encx.roblox_noob": "Roblox 初心者",
+      "block.encx.robux_ore": "Robux Ore",
+      "advancements.you_got_robux.descr": "Robux",
+      "subtitles.uuhhh": "Robloxキャラクターが死んだ音",
+      "item.encx.partygoers_spawn_egg": "Partygoers Spawn Egg",
+      "entity.encx.partygoers": "Partygoers",
+      "subtitles.talk_noob": "Robloxキャラクターが喋る音",
+      "subtitles.hurt_niib": "Robloxキャラクターが傷つく音",
+      "itemGroup.tabbackrooms_element": "Backrooms Element",
+      "subtitles.hurt": "",
+      "entity.encx.partypooper": "Partypoopers",
+      "advancements.you_got_robux.title": "You Got Robux",
+      "itemGroup.tabroblox_element": "Roblox　要素",
+      "item.encx.robux": "Robux",
+      "item.encx.partypooper_spawn_egg": "Partypoopers Spawn Egg",
+      "item.encx.roblox_noob_spawn_egg": "Roblox Noobをスポーン"
     }
   },
   "foldersRoot": {
@@ -95,18 +177,20 @@
   "workspaceSettings": {
     "modid": "encx",
     "modName": "Encodem X",
-    "version": "1.0.0",
-    "author": "user, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "All Rights Reserved",
+    "version": "1.0.1",
+    "description": "Encodem X is an Element Mod.",
+    "author": "Gyisti, MCreator",
+    "websiteURL": "https://gyisti.github.io/",
+    "license": "the mod\u0027s copyright goes to Gyisti Production. Do not Copy all of Gyisti Production\u0027s projects.",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "ico",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.18.2",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "created using MCreator",
     "modElementsPackage": "com.gyisti.encodem",
     "lockBaseModFiles": false
   },

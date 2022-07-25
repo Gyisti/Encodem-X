@@ -32,7 +32,9 @@ import java.util.function.BiConsumer;
 
 import com.gyisti.encodem.init.EncxModTabs;
 import com.gyisti.encodem.init.EncxModItems;
+import com.gyisti.encodem.init.EncxModFeatures;
 import com.gyisti.encodem.init.EncxModEntities;
+import com.gyisti.encodem.init.EncxModBlocks;
 
 @Mod("encx")
 public class EncxMod {
@@ -46,9 +48,11 @@ public class EncxMod {
 	public EncxMod() {
 		EncxModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
+		EncxModBlocks.REGISTRY.register(bus);
 		EncxModItems.REGISTRY.register(bus);
 		EncxModEntities.REGISTRY.register(bus);
+
+		EncxModFeatures.REGISTRY.register(bus);
 
 	}
 

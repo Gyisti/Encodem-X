@@ -1,0 +1,11 @@
+{
+  "_fv": 30,
+  "_type": "tab",
+  "definition": {
+    "name": "Backrooms Element",
+    "icon": {
+      "value": "Blocks.GRAVEL"
+    },
+    "showSearch": true
+  }
+}

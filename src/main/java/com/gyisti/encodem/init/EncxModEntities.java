@@ -17,6 +17,8 @@ import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.Entity;
 
 import com.gyisti.encodem.entity.RobloxNoobEntity;
+import com.gyisti.encodem.entity.PartypooperEntity;
+import com.gyisti.encodem.entity.PartygoersEntity;
 import com.gyisti.encodem.EncxMod;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
@@ -25,6 +27,14 @@ public class EncxModEntities {
 	public static final RegistryObject<EntityType<RobloxNoobEntity>> ROBLOX_NOOB = register("roblox_noob",
 			EntityType.Builder.<RobloxNoobEntity>of(RobloxNoobEntity::new, MobCategory.CREATURE).setShouldReceiveVelocityUpdates(true)
 					.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(RobloxNoobEntity::new)
+
+					.sized(0.6f, 1.8f));
+	public static final RegistryObject<EntityType<PartygoersEntity>> PARTYGOERS = register("partygoers",
+			EntityType.Builder.<PartygoersEntity>of(PartygoersEntity::new, MobCategory.MONSTER).setShouldReceiveVelocityUpdates(true)
+					.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(PartygoersEntity::new).fireImmune().sized(0.6f, 1.8f));
+	public static final RegistryObject<EntityType<PartypooperEntity>> PARTYPOOPER = register("partypooper",
+			EntityType.Builder.<PartypooperEntity>of(PartypooperEntity::new, MobCategory.CREATURE).setShouldReceiveVelocityUpdates(true)
+					.setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(PartypooperEntity::new)
 
 					.sized(0.6f, 1.8f));
 
@@ -36,11 +46,15 @@ public class EncxModEntities {
 	public static void init(FMLCommonSetupEvent event) {
 		event.enqueueWork(() -> {
 			RobloxNoobEntity.init();
+			PartygoersEntity.init();
+			PartypooperEntity.init();
 		});
 	}
 
 	@SubscribeEvent
 	public static void registerAttributes(EntityAttributeCreationEvent event) {
 		event.put(ROBLOX_NOOB.get(), RobloxNoobEntity.createAttributes().build());
+		event.put(PARTYGOERS.get(), PartygoersEntity.createAttributes().build());
+		event.put(PARTYPOOPER.get(), PartypooperEntity.createAttributes().build());
 	}
 }

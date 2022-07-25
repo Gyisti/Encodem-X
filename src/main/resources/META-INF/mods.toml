@@ -1,14 +1,18 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="All Rights Reserved"
+license="the mod's copyright goes to Gyisti Production. Do not Copy all of Gyisti Production's projects."
 
 [[mods]]
 modId="encx"
-version="1.0.0"
+version="1.0.1"
 displayName="Encodem X"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="user, MCreator"
+credits="created using MCreator"
+displayURL="https://gyisti.github.io/"
+logoFile="logo.png"
+authors="Gyisti, MCreator"
+description='''
+Encodem X is an Element Mod.
+'''
 
 [[dependencies.encx]]
     modId="minecraft"

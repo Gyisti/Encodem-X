@@ -1,18 +1,18 @@
 {
-  "entity.encx.roblox_noob": "Roblox Noob",
+  "entity.encx.roblox_noob": "Roblox 初心者",
   "block.encx.robux_ore": "Robux Ore",
   "advancements.you_got_robux.descr": "Robux",
-  "subtitles.uuhhh": "Sound of Roblox Character Dies",
+  "subtitles.uuhhh": "Robloxキャラクターが死んだ音",
   "item.encx.partygoers_spawn_egg": "Partygoers Spawn Egg",
   "entity.encx.partygoers": "Partygoers",
-  "subtitles.talk_noob": "Roblox Character Talks",
-  "subtitles.hurt_niib": "Roblox Character Hurts",
+  "subtitles.talk_noob": "Robloxキャラクターが喋る音",
+  "subtitles.hurt_niib": "Robloxキャラクターが傷つく音",
   "itemGroup.tabbackrooms_element": "Backrooms Element",
   "subtitles.hurt": "",
   "entity.encx.partypooper": "Partypoopers",
   "advancements.you_got_robux.title": "You Got Robux",
-  "itemGroup.tabroblox_element": "Roblox Element",
+  "itemGroup.tabroblox_element": "Roblox　要素",
   "item.encx.robux": "Robux",
   "item.encx.partypooper_spawn_egg": "Partypoopers Spawn Egg",
-  "item.encx.roblox_noob_spawn_egg": "Roblox Noob Spawn Egg"
+  "item.encx.roblox_noob_spawn_egg": "Roblox Noobをスポーン"
 }
