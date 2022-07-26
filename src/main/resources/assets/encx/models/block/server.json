@@ -1,0 +1,8 @@
+{
+  "parent": "encx:custom/model_(1)",
+  "textures": {
+    "all": "encx:blocks/tewe_1",
+    "particle": "encx:blocks/tewe_1",
+    "3": "encx:blocks/tewe_1"
+  }
+}

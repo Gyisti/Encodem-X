@@ -67,7 +67,7 @@ public class PartypooperEntity extends PathfinderMob {
 		super.registerGoals();
 		this.goalSelector.addGoal(1, new PanicGoal(this, 1.2));
 		this.goalSelector.addGoal(2, new LookAtPlayerGoal(this, AmbientCreature.class, (float) 6));
-		this.goalSelector.addGoal(3, new AvoidEntityGoal<>(this, PartygoersEntity.class, (float) 6, 1, 1.2));
+		this.goalSelector.addGoal(3, new AvoidEntityGoal<>(this, PartygoersEntity.class, (float) 6, 1, 2.4));
 		this.goalSelector.addGoal(4, new RandomStrollGoal(this, 1));
 		this.goalSelector.addGoal(5, new RandomSwimmingGoal(this, 1, 40));
 		this.goalSelector.addGoal(6, new WaterAvoidingRandomStrollGoal(this, 0.8));

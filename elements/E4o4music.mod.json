@@ -1,0 +1,19 @@
+{
+  "_fv": 30,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "e4o4_disc",
+    "name": "E4o4 music",
+    "description": "music",
+    "creativeTab": {
+      "value": "CUSTOM:EncodemX"
+    },
+    "music": {
+      "value": "CUSTOM:e4o4"
+    },
+    "specialInfo": [
+      "WOW GREAT =D"
+    ],
+    "hasGlow": false
+  }
+}

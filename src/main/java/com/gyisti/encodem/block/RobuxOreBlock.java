@@ -25,6 +25,8 @@ import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Collections;
 
+import com.gyisti.encodem.init.EncxModItems;
+
 public class RobuxOreBlock extends Block {
 	public RobuxOreBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE, MaterialColor.STONE).sound(SoundType.GRAVEL).strength(2.4f, 10f).lightLevel(s -> 5)
@@ -53,11 +55,6 @@ public class RobuxOreBlock extends Block {
 	}
 
 	@Override
-	public Block.OffsetType getOffsetType() {
-		return Block.OffsetType.XYZ;
-	}
-
-	@Override
 	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
 		if (player.getInventory().getSelected().getItem() instanceof TieredItem tieredItem)
 			return tieredItem.getTier().getLevel() >= 1;
@@ -69,6 +66,6 @@ public class RobuxOreBlock extends Block {
 		List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 		if (!dropsOriginal.isEmpty())
 			return dropsOriginal;
-		return Collections.singletonList(new ItemStack(this, 1));
+		return Collections.singletonList(new ItemStack(EncxModItems.ROBUX.get()));
 	}
 }

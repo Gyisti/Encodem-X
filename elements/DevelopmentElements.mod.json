@@ -1,0 +1,11 @@
+{
+  "_fv": 30,
+  "_type": "tab",
+  "definition": {
+    "name": "Development Elements",
+    "icon": {
+      "value": "Blocks.COMMAND_BLOCK"
+    },
+    "showSearch": true
+  }
+}

@@ -46,7 +46,7 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Robux"
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
@@ -69,7 +69,7 @@
     "creativePickItem": {
       "value": ""
     },
-    "offsetType": "XYZ",
+    "offsetType": "NONE",
     "aiPathNodeType": "BLOCKED",
     "flammability": 0,
     "fireSpreadSpeed": 0,

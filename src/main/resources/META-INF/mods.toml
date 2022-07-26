@@ -1,17 +1,17 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="the mod's copyright goes to Gyisti Production. Do not Copy all of Gyisti Production's projects."
+license="copyright of this mod belongs to Gyisti Production. Please refrain from duplicating all of Gyisti Production's projects. It may lead to copyright infringement."
 
 [[mods]]
 modId="encx"
-version="1.0.1"
+version="1.2.0"
 displayName="Encodem X"
-credits="created using MCreator"
+credits="created using Minecraft Popular Mod Creator - MCreator"
 displayURL="https://gyisti.github.io/"
 logoFile="logo.png"
 authors="Gyisti, MCreator"
 description='''
-Encodem X is an Element Mod.
+Encodem X is a mod of content elements taken from various popular games. This mod is currently under development. Development of previous mods is currently on hold due to updates to the creation software..
 '''
 
 [[dependencies.encx]]

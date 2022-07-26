@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "encx:block/fun_table"
+    },
+    "facing=east": {
+      "model": "encx:block/fun_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "encx:block/fun_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "encx:block/fun_table",
+      "y": 270
+    }
+  }
+}

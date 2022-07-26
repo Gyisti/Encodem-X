@@ -23,6 +23,8 @@ import java.util.List;
 import java.util.ArrayList;
 
 import com.gyisti.encodem.world.features.ores.RobuxOreFeature;
+import com.gyisti.encodem.world.features.RuinsOfPattiamFeature;
+import com.gyisti.encodem.world.features.PartypoopershopFeature;
 import com.gyisti.encodem.EncxMod;
 
 @Mod.EventBusSubscriber
@@ -31,6 +33,12 @@ public class EncxModFeatures {
 	private static final List<FeatureRegistration> FEATURE_REGISTRATIONS = new ArrayList<>();
 	public static final RegistryObject<Feature<?>> ROBUX_ORE = register("robux_ore", RobuxOreFeature::feature,
 			new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_ORES, RobuxOreFeature.GENERATE_BIOMES, RobuxOreFeature::placedFeature));
+	public static final RegistryObject<Feature<?>> PARTYPOOPERSHOP = register("partypoopershop", PartypoopershopFeature::feature,
+			new FeatureRegistration(GenerationStep.Decoration.SURFACE_STRUCTURES, PartypoopershopFeature.GENERATE_BIOMES,
+					PartypoopershopFeature::placedFeature));
+	public static final RegistryObject<Feature<?>> RUINS_OF_PATTIAM = register("ruins_of_pattiam", RuinsOfPattiamFeature::feature,
+			new FeatureRegistration(GenerationStep.Decoration.UNDERGROUND_STRUCTURES, RuinsOfPattiamFeature.GENERATE_BIOMES,
+					RuinsOfPattiamFeature::placedFeature));
 
 	private static RegistryObject<Feature<?>> register(String registryname, Supplier<Feature<?>> feature, FeatureRegistration featureRegistration) {
 		FEATURE_REGISTRATIONS.add(featureRegistration);

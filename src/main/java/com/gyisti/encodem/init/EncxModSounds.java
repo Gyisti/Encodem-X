@@ -21,6 +21,11 @@ public class EncxModSounds {
 		REGISTRY.put(new ResourceLocation("encx", "uuhhh"), new SoundEvent(new ResourceLocation("encx", "uuhhh")));
 		REGISTRY.put(new ResourceLocation("encx", "hurt_niib"), new SoundEvent(new ResourceLocation("encx", "hurt_niib")));
 		REGISTRY.put(new ResourceLocation("encx", "talk_noob"), new SoundEvent(new ResourceLocation("encx", "talk_noob")));
+		REGISTRY.put(new ResourceLocation("encx", "chair_place"), new SoundEvent(new ResourceLocation("encx", "chair_place")));
+		REGISTRY.put(new ResourceLocation("encx", "chair_break"), new SoundEvent(new ResourceLocation("encx", "chair_break")));
+		REGISTRY.put(new ResourceLocation("encx", "chair_hit"), new SoundEvent(new ResourceLocation("encx", "chair_hit")));
+		REGISTRY.put(new ResourceLocation("encx", "chair_step"), new SoundEvent(new ResourceLocation("encx", "chair_step")));
+		REGISTRY.put(new ResourceLocation("encx", "e4o4"), new SoundEvent(new ResourceLocation("encx", "e4o4")));
 	}
 
 	@SubscribeEvent

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "encx:blocks/funwall1_not",
+    "up": "encx:blocks/funwall1_not",
+    "north": "encx:blocks/funwall1_base",
+    "east": "encx:blocks/funwall1_base",
+    "south": "encx:blocks/funwall1_base",
+    "west": "encx:blocks/funwall1_base",
+    "particle": "encx:blocks/funwall1_not"
+  }
+}

@@ -2,7 +2,7 @@
   "_fv": 30,
   "_type": "function",
   "definition": {
-    "code": "/tellraw @p [\"\",{\"text\":\"Encodem X v1.0\",\"bold\":true,\"italic\":true,\"color\":\"dark_green\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"RnJlZU1jQWNjb3VudHMgaHR0cHM6Ly9iaXQubHkvZnVuaXRobmc=\",\"bold\":true,\"color\":\"dark_red\"}]}},{\"text\":\"Created by Gyisti Production from Github\",\"bold\":true,\"color\":\"dark_green\"}]",
+    "code": "/tellraw @a [\"\",{\"text\":\"Gyisti \"},{\"text\":\"Mine\",\"color\":\"green\"},{\"text\":\"craft\",\"color\":\"red\"},{\"text\":\" Mod - \"},{\"text\":\"Encodem \",\"bold\":true,\"color\":\"green\"},{\"text\":\"X\",\"bold\":true,\"italic\":true,\"color\":\"green\"},{\"text\":\"\\nWelcome to Encodem X!\\nThis mod created using \"},{\"text\":\"MCreator\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://mcreator.net\"}},{\"text\":\".\\nand startup Text created using \"},{\"text\":\"Minecraft Tools\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://minecraft.tools/en/\"}},{\"text\":\".\\nThe mod Contains some Popular Things.\\nOrigin Sources:\\n1.1 - Roblox, Backrooms\"}]\n# /tellraw @p [\"\",{\"text\":\"Encodem X v1.0\",\"bold\":true,\"italic\":true,\"color\":\"dark_green\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"RnJlZU1jQWNjb3VudHMgaHR0cHM6Ly9iaXQubHkvZnVuaXRobmc=\",\"bold\":true,\"color\":\"dark_red\"}]}},{\"text\":\"Created by Gyisti Production from Github\",\"bold\":true,\"color\":\"dark_green\"}]",
     "name": "gm_load_func",
     "namespace": "mod"
   }

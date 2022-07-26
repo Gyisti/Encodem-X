@@ -15,6 +15,6 @@ public class PartypooperRenderer extends MobRenderer<PartypooperEntity, Modelbfi
 
 	@Override
 	public ResourceLocation getTextureLocation(PartypooperEntity entity) {
-		return new ResourceLocation("encx:textures/partypoopers.png");
+		return new ResourceLocation("encx:textures/partypoopersvthree.png");
 	}
 }

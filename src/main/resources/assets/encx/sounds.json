@@ -28,5 +28,55 @@
         "stream": false
       }
     ]
+  },
+  "chair_place": {
+    "category": "block",
+    "subtitle": "subtitles.chair_place",
+    "sounds": [
+      {
+        "name": "encx:chair_place",
+        "stream": false
+      }
+    ]
+  },
+  "chair_break": {
+    "category": "block",
+    "subtitle": "subtitles.chair_break",
+    "sounds": [
+      {
+        "name": "encx:chair_break",
+        "stream": false
+      }
+    ]
+  },
+  "chair_hit": {
+    "category": "block",
+    "subtitle": "subtitles.chair_hit",
+    "sounds": [
+      {
+        "name": "encx:chair_hit",
+        "stream": false
+      }
+    ]
+  },
+  "chair_step": {
+    "category": "block",
+    "subtitle": "subtitles.chair_step",
+    "sounds": [
+      {
+        "name": "encx:chair_step",
+        "stream": false
+      }
+    ]
+  },
+  "e4o4": {
+    "category": "music",
+    "subtitle": "subtitles.e4o4",
+    "sounds": [
+      {
+        "name": "encx:e4o4",
+        "stream": true
+      }
+    ]
   }
 }

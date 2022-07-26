@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "encx:items/e4o4_disc"
+  }
+}

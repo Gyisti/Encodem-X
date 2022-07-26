@@ -15,6 +15,8 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
 import com.gyisti.encodem.item.RobuxItem;
+import com.gyisti.encodem.item.FunFaceItem;
+import com.gyisti.encodem.item.E4o4musicItem;
 import com.gyisti.encodem.EncxMod;
 
 public class EncxModItems {
@@ -29,6 +31,14 @@ public class EncxModItems {
 	public static final RegistryObject<Item> PARTYPOOPER = REGISTRY.register("partypooper_spawn_egg",
 			() -> new ForgeSpawnEggItem(EncxModEntities.PARTYPOOPER, -13395457, -16751002,
 					new Item.Properties().tab(EncxModTabs.TAB_BACKROOMS_ELEMENT)));
+	public static final RegistryObject<Item> CHAIR = block(EncxModBlocks.CHAIR, EncxModTabs.TAB_BACKROOMS_ELEMENT);
+	public static final RegistryObject<Item> FUN_FACE = REGISTRY.register("fun_face", () -> new FunFaceItem());
+	public static final RegistryObject<Item> FUN_CHAIR = block(EncxModBlocks.FUN_CHAIR, EncxModTabs.TAB_LEVEL_FUN_ELEMENTS);
+	public static final RegistryObject<Item> FUN_TABLE = block(EncxModBlocks.FUN_TABLE, EncxModTabs.TAB_LEVEL_FUN_ELEMENTS);
+	public static final RegistryObject<Item> LEVEL_FUN_WALL_1 = block(EncxModBlocks.LEVEL_FUN_WALL_1, EncxModTabs.TAB_LEVEL_FUN_ELEMENTS);
+	public static final RegistryObject<Item> CHAIR_REPLACE = block(EncxModBlocks.CHAIR_REPLACE, EncxModTabs.TAB_DEVELOPMENT_ELEMENTS);
+	public static final RegistryObject<Item> E_4O_4MUSIC = REGISTRY.register("e_4o_4music", () -> new E4o4musicItem());
+	public static final RegistryObject<Item> SERVER = block(EncxModBlocks.SERVER, EncxModTabs.TAB_ENCODEM_X);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
