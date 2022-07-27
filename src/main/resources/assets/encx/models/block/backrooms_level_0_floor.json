@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "encx:blocks/backrooms_lv0_floor",
+    "particle": "encx:blocks/backrooms_lv0_floor"
+  }
+}

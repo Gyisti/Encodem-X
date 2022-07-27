@@ -53,7 +53,7 @@ public class PartypoopershopFeature extends Feature<NoneFeatureConfiguration> {
 		if (!generate_dimensions.contains(context.level().getLevel().dimension()))
 			return false;
 		if (template == null)
-			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("encx", "pp_shop"));
+			template = context.level().getLevel().getStructureManager().getOrCreate(new ResourceLocation("encx", "pp_shop_v2"));
 		if (template == null)
 			return false;
 		boolean anyPlaced = false;

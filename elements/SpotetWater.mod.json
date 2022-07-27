@@ -1,0 +1,51 @@
+{
+  "_fv": 30,
+  "_type": "fluid",
+  "definition": {
+    "name": "Spotet Water",
+    "bucketName": "Spotet Water Bucket",
+    "textureStill": "spotetwater_still",
+    "textureFlowing": "spotetwater_flow",
+    "tintType": "Water",
+    "canMultiply": false,
+    "flowRate": 4,
+    "levelDecrease": 1,
+    "slopeFindDistance": 8,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "WATER_DROP"
+    },
+    "flowStrength": 1.7000000000000002,
+    "luminosity": 5,
+    "density": 969,
+    "viscosity": 948,
+    "isGas": false,
+    "temperature": 255,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "spotetwater_bucket",
+    "creativeTab": {
+      "value": "CUSTOM:EncodemX"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "is this pp!?!?"
+    ],
+    "resistance": 100.0,
+    "luminance": 7,
+    "lightOpacity": 4,
+    "emissiveRendering": true,
+    "tickRate": 11,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "WATER",
+    "frequencyOnChunks": 9,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

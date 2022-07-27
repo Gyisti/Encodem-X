@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "encx:blocks/white",
+    "top": "encx:blocks/white",
+    "side": "encx:blocks/white"
+  }
+}

@@ -2,7 +2,7 @@
   "_fv": 30,
   "_type": "structure",
   "definition": {
-    "structure": "pp_shop",
+    "structure": "pp_shop_v2",
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
     "spawnProbability": 512,

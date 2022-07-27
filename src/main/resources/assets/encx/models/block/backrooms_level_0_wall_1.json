@@ -1,0 +1,8 @@
+{
+  "parent": "encx:custom/backrooms_wall_no_small_cubes",
+  "textures": {
+    "all": "encx:blocks/texture",
+    "particle": "encx:blocks/texture",
+    "0": "encx:blocks/texture"
+  }
+}

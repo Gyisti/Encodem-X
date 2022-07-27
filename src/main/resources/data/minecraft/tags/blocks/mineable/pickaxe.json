@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "encx:robux_ore"
+    "encx:robux_ore",
+    "encx:spotet_stone",
+    "encx:backrooms_level_0_light"
   ]
 }

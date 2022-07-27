@@ -3,7 +3,7 @@
     {
       "name": "RobloxElement",
       "type": "tab",
-      "sortid": 1,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "roblox_element"
@@ -11,7 +11,7 @@
     {
       "name": "RobloxNoobpureiyagakonoenteiteitoChongTusitatoki",
       "type": "procedure",
-      "sortid": 2,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "roblox_noobpureiyagakonoenteiteito_chong_tusitatoki",
@@ -27,7 +27,7 @@
     {
       "name": "RobloxNoob",
       "type": "livingentity",
-      "sortid": 2,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "roblox_noob"
@@ -35,7 +35,7 @@
     {
       "name": "GmLoadFunc",
       "type": "function",
-      "sortid": 3,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "gm_load_func"
@@ -43,7 +43,7 @@
     {
       "name": "Robux",
       "type": "item",
-      "sortid": 4,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "robux"
@@ -51,7 +51,7 @@
     {
       "name": "RobuxOre",
       "type": "block",
-      "sortid": 5,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "robux_ore"
@@ -59,7 +59,7 @@
     {
       "name": "YouGotRobux",
       "type": "achievement",
-      "sortid": 7,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "you_got_robux"
@@ -67,7 +67,7 @@
     {
       "name": "BackroomsElement",
       "type": "tab",
-      "sortid": 9,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "backrooms_element"
@@ -75,7 +75,7 @@
     {
       "name": "Partygoers",
       "type": "livingentity",
-      "sortid": 10,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "partygoers"
@@ -83,7 +83,7 @@
     {
       "name": "Partypooper",
       "type": "livingentity",
-      "sortid": 11,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "partypooper"
@@ -91,7 +91,7 @@
     {
       "name": "PartygoerFootage",
       "type": "painting",
-      "sortid": 12,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "partygoer_footage"
@@ -99,7 +99,7 @@
     {
       "name": "Chair",
       "type": "block",
-      "sortid": 13,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chair"
@@ -107,7 +107,7 @@
     {
       "name": "FunFace",
       "type": "item",
-      "sortid": 14,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fun_face"
@@ -115,7 +115,7 @@
     {
       "name": "LevelFunElements",
       "type": "tab",
-      "sortid": 15,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "level_fun_elements"
@@ -123,7 +123,7 @@
     {
       "name": "FunChair",
       "type": "block",
-      "sortid": 16,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fun_chair"
@@ -131,7 +131,7 @@
     {
       "name": "DevelopmentElements",
       "type": "tab",
-      "sortid": 17,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "development_elements"
@@ -139,7 +139,7 @@
     {
       "name": "FunTable",
       "type": "block",
-      "sortid": 18,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fun_table"
@@ -147,7 +147,7 @@
     {
       "name": "LevelFunWall1",
       "type": "block",
-      "sortid": 19,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "level_fun_wall_1"
@@ -155,7 +155,7 @@
     {
       "name": "ChairReplace",
       "type": "block",
-      "sortid": 20,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "chair_replace"
@@ -163,7 +163,7 @@
     {
       "name": "Partypoopershop",
       "type": "structure",
-      "sortid": 21,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "partypoopershop"
@@ -171,7 +171,7 @@
     {
       "name": "RuinsOfPattiam",
       "type": "structure",
-      "sortid": 22,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ruins_of_pattiam"
@@ -179,7 +179,7 @@
     {
       "name": "EncodemX",
       "type": "tab",
-      "sortid": 23,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "encodem_x"
@@ -187,7 +187,7 @@
     {
       "name": "E4o4music",
       "type": "musicdisc",
-      "sortid": 24,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "e_4o_4music"
@@ -195,13 +195,126 @@
     {
       "name": "Server",
       "type": "block",
-      "sortid": 25,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "server"
+    },
+    {
+      "name": "SpotetGrassBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spotet_grass_block"
+    },
+    {
+      "name": "SpotetWater",
+      "type": "fluid",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spotet_water",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Spotet",
+      "type": "dimension",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spotet",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "BackroomsLevel0Wall",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_level_0_wall"
+    },
+    {
+      "name": "BackroomsLevel0Wall1",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_level_0_wall_1"
+    },
+    {
+      "name": "Cfg",
+      "type": "code",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "cfg"
+    },
+    {
+      "name": "Test",
+      "type": "tag",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    },
+    {
+      "name": "Amoh",
+      "type": "fuel",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amoh"
+    },
+    {
+      "name": "SpotetStone",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spotet_stone"
+    },
+    {
+      "name": "BackroomsLevel0Floor",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_level_0_floor"
+    },
+    {
+      "name": "BackroomsLevel0Light",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_level_0_light"
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "Element_ID",
+      "type": "string",
+      "scope": "map",
+      "value": "\"\""
+    },
+    {
+      "name": "isModLoaded",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    },
+    {
+      "name": "gstat",
+      "type": "file",
+      "scope": "global",
+      "value": "new File(\"\")"
+    }
+  ],
   "sound_elements": [
     {
       "name": "uuhhh",
@@ -270,11 +383,14 @@
   ],
   "language_map": {
     "en_us": {
+      "block.encx.backrooms_level_0_floor": "Backrooms Level 0 Floor",
       "subtitles.chair_step": "Steps chair",
       "item.encx.e_4o_4music": "E4o4 music",
       "block.encx.robux_ore": "Robux Ore",
       "advancements.you_got_robux.descr": "Robux",
+      "block.encx.backrooms_level_0_wall": "Backrooms Level 0 Wall",
       "subtitles.uuhhh": "Sound of Roblox Character Dies",
+      "fluid.encx.spotet_water": "Spotet Water",
       "itemGroup.tabdevelopment_elements": "Development Elements",
       "subtitles.hurt_niib": "Roblox Character Hurts",
       "itemGroup.tabbackrooms_element": "Backrooms Element",
@@ -284,8 +400,11 @@
       "advancements.you_got_robux.title": "You Got Robux",
       "item.encx.robux": "Robux",
       "subtitles.e4o4": "music",
+      "block.encx.spotet_stone": "Spotet Stone",
+      "block.encx.backrooms_level_0_light": "Backrooms Level 0 Light",
       "item.encx.roblox_noob_spawn_egg": "Roblox Noob Spawn Egg",
       "block.encx.fun_chair": "Chair",
+      "item.encx.spotet": "Spotet Portal Igniter",
       "block.encx.chair_replace": "Chair Replace",
       "subtitles.chair_break": "chair breaks",
       "entity.encx.roblox_noob": "Roblox Noob",
@@ -296,20 +415,27 @@
       "itemGroup.tablevel_fun_elements": "\u003d) Elements",
       "entity.encx.partygoers": "Partygoers",
       "subtitles.chair_hit": "chair hits soneone",
+      "block.encx.backrooms_level_0_wall_1": "Backrooms Level 0 Wall 2",
       "block.encx.chair": "Chair",
       "subtitles.talk_noob": "Roblox Character Talks",
       "item.encx.fun_face": "Fun Face",
+      "block.encx.spotet_grass_block": "Spotet Grass Block",
+      "item.encx.spotet_water_bucket": "Spotet Water Bucket",
       "entity.encx.partypooper": "Partypoopers",
       "itemGroup.tabroblox_element": "Roblox Element",
       "itemGroup.tabencodem_x": "Encodem X",
-      "item.encx.partypooper_spawn_egg": "Partypoopers Spawn Egg"
+      "item.encx.partypooper_spawn_egg": "Partypoopers Spawn Egg",
+      "block.encx.spotet_water": "Spotet Water"
     },
     "ja_jp": {
+      "block.encx.backrooms_level_0_floor": "Backrooms Level 0 Floor",
       "subtitles.chair_step": "椅子を歩く音",
       "item.encx.e_4o_4music": "E4o4 music",
       "block.encx.robux_ore": "Robux鉱石",
       "advancements.you_got_robux.descr": "Robux",
+      "block.encx.backrooms_level_0_wall": "Backrooms Level 0 Wall",
       "subtitles.uuhhh": "Robloxキャラクターが死んだ音",
+      "fluid.encx.spotet_water": "Spotet Water",
       "itemGroup.tabdevelopment_elements": "開発用要素",
       "subtitles.hurt_niib": "Robloxキャラクターが傷つく音",
       "itemGroup.tabbackrooms_element": "Backrooms 要素",
@@ -319,8 +445,11 @@
       "advancements.you_got_robux.title": "Robuxを手に入れた",
       "item.encx.robux": "Robux",
       "subtitles.e4o4": "",
+      "block.encx.spotet_stone": "Spotet Stone",
+      "block.encx.backrooms_level_0_light": "Backrooms Level 0 Light",
       "item.encx.roblox_noob_spawn_egg": "Roblox Noobをスポーン",
       "block.encx.fun_chair": "タダの椅子椅子",
+      "item.encx.spotet": "Spotet Portal Igniter",
       "block.encx.chair_replace": "椅子が差し替えられる音",
       "subtitles.chair_break": "椅子を壊す音",
       "entity.encx.roblox_noob": "Roblox 初心者",
@@ -331,23 +460,32 @@
       "itemGroup.tablevel_fun_elements": "\u003d) 要素",
       "entity.encx.partygoers": "Partygoers",
       "subtitles.chair_hit": "椅子に誰かが衝突する音",
+      "block.encx.backrooms_level_0_wall_1": "Backrooms Level 0 Wall 1",
       "block.encx.chair": "ただただ椅子",
       "subtitles.talk_noob": "Robloxキャラクターが喋る音",
       "item.encx.fun_face": "楽しい顔",
+      "block.encx.spotet_grass_block": "Spotet Grass Block",
+      "item.encx.spotet_water_bucket": "Spotet Water Bucket",
       "entity.encx.partypooper": "Partypoopers",
       "itemGroup.tabroblox_element": "Roblox 要素",
       "itemGroup.tabencodem_x": "Encodem X",
-      "item.encx.partypooper_spawn_egg": "Partypoopersをスポーン"
+      "item.encx.partypooper_spawn_egg": "Partypoopersをスポーン",
+      "block.encx.spotet_water": "Spotet Water"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "soundp",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "encx",
     "modName": "Encodem X",
-    "version": "1.2.0",
+    "version": "1.0.0",
     "description": "Encodem X is a mod of content elements taken from various popular games. This mod is currently under development. Development of previous mods is currently on hold due to updates to the creation software..",
     "author": "Gyisti, MCreator",
     "websiteURL": "https://gyisti.github.io/",

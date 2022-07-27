@@ -1,0 +1,42 @@
+{
+  "_fv": 30,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "plains"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:SpotetGrassBlock"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:SpotetWater"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.DIAMOND_BLOCK"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 12,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Spotet Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:EncodemX"
+    },
+    "texture": "spotet_opener",
+    "portalTexture": "funwall1_base",
+    "enablePortal": true
+  }
+}

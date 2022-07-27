@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "encx:block/backrooms_level_0_light"
+    },
+    "type=top": {
+      "model": "encx:block/backrooms_level_0_light_top"
+    },
+    "type=double": {
+      "model": "encx:block/backrooms_level_0_light_full"
+    }
+  }
+}

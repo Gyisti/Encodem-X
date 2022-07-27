@@ -32,6 +32,7 @@ import java.util.function.BiConsumer;
 
 import com.gyisti.encodem.init.EncxModTabs;
 import com.gyisti.encodem.init.EncxModItems;
+import com.gyisti.encodem.init.EncxModFluids;
 import com.gyisti.encodem.init.EncxModFeatures;
 import com.gyisti.encodem.init.EncxModEntities;
 import com.gyisti.encodem.init.EncxModBlocks;
@@ -53,6 +54,7 @@ public class EncxMod {
 		EncxModEntities.REGISTRY.register(bus);
 
 		EncxModFeatures.REGISTRY.register(bus);
+		EncxModFluids.REGISTRY.register(bus);
 
 	}
 

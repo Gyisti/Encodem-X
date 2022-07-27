@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "encx:block/backrooms_level_0_wall"
+    },
+    "facing=east": {
+      "model": "encx:block/backrooms_level_0_wall",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "encx:block/backrooms_level_0_wall",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "encx:block/backrooms_level_0_wall",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "encx:block/backrooms_level_0_wall",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "encx:block/backrooms_level_0_wall",
+      "x": 90
+    }
+  }
+}

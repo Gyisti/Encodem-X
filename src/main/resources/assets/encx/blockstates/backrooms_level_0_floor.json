@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "encx:block/backrooms_level_0_floor"
+    },
+    "face=floor,facing=east": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "encx:block/backrooms_level_0_floor",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

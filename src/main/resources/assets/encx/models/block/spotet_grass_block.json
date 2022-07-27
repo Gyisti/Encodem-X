@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "encx:blocks/spotet_grassbase",
+    "top": "encx:blocks/spotet_grasstop",
+    "side": "encx:blocks/spotet_grassbase",
+    "overlay": "encx:blocks/spotet_grassoverlay",
+    "particle": "encx:blocks/spotet_grassbase"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "encx:blocks/spotet_stone",
+    "particle": "encx:blocks/spotet_stone"
+  }
+}

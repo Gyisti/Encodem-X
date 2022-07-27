@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "encx:blocks/white",
+    "top": "encx:blocks/white",
+    "side": "encx:blocks/white"
+  }
+}

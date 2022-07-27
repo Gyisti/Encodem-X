@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "encx:block/spotet_portal_ew"
+    },
+    "axis=x": {
+      "model": "encx:block/spotet_portal_ns"
+    }
+  }
+}
